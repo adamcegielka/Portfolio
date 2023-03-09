@@ -1,16 +1,20 @@
-### Hi there 👋
+## Welcome 👋 , I'm Junior García
 
-<!--
-**adamcegielka/adamcegielka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Testing, detecting bugs and their causes, has been a passion of mine for a long time. In order to develop these abilities, I decided to take an intensive "Software Tester" course. According to the results of the Thomas PPA test, I am a thorough person who pays a lot of attention to detail, which makes me excel in my new role.
 
-Here are some ideas to get you started:
+### 🛠 &nbsp; Testing tools that I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=00d8fd)
+  &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
+  &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
+- &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
+  &nbsp; ![Selenium WebDriver](https://img.shields.io/badge/-Selenium%20WebDriver-0A1A2F?style=flat&logo=selenium-webdriver&logoColor=00d8fd)
+  &nbsp; ![JMeter](https://img.shields.io/badge/-JMeter-0A1A2F?style=flat&logo=jmeter&logoColor=00d8fd)
+- &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=007ACC)
+- &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  &nbsp; ![Workbench](https://img.shields.io/badge/-Workbench-0A1A2F?style=flat&logo=workbench&logoColor=00d8fd)
+- &nbsp; ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+- &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=Canva)
+  &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
