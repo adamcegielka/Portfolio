@@ -13,7 +13,7 @@ Testing, detecting bugs and their causes, has been a passion of mine for a long 
 - &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=007ACC)
 - &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  &nbsp; ![Workbench](https://img.shields.io/badge/-Workbench-0A1A2F?style=flat&logo=workbench)
+  ![Workbench](https://img.shields.io/badge/-Workbench-0A1A2F?style=flat&logo=workbench)
 - &nbsp; ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=Canva)
