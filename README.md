@@ -1,6 +1,6 @@
 ## Welcome 👋 , I'm Junior Software Tester
 
-Testing, detecting bugs and their causes, has been a passion of mine for a long time. In order to develop these abilities, I decided to take an intensive "Software Tester" course. According to the results of the Thomas PPA test, I am a thorough person who pays a lot of attention to detail, which makes me excel in my new role.
+I am a Junior Software Tester with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily.
 
 ### 🛠 &nbsp; Testing tools that I use
 
