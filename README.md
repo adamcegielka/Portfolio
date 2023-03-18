@@ -1,6 +1,6 @@
-## Welcome 👋  I'm Junior Software Tester
+## Welcome 👋 
 
-I am a Junior Software Tester with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily.
+I'm a Junior Software Tester with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily.
 
 ### 🛠 &nbsp; Testing tools that I use
 
