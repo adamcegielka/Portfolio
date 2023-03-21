@@ -19,7 +19,6 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 - &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=Canva)
   &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
-<br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-light-mode-only)
