@@ -21,9 +21,7 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=adamcegielka)
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-light-mode-only)
 
 ## Connect with me
