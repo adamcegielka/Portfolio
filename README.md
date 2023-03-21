@@ -23,7 +23,7 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/adamcegielka/github-readme-stats#gh-light-mode-only)
 
-## Connect with me
+### Connect with me
 
 [<img align="left" alt="utest" src="https://img.shields.io/badge/utest-%23009EC2.svg?&style=for-the-badge&logo=utest&logoColor=white" />](https://www.utest.com/profile/AdamCegielka/about)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adam-cegielka)
