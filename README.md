@@ -17,8 +17,9 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 - &nbsp; ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools)
-- &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
+- &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence)
   &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+  &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
 
 | ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=gotham) |
 | ------------- | ------------- |
