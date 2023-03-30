@@ -24,6 +24,9 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 | ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=gotham) |
 | ------------- | ------------- |
 
+| <a href="https://github.com/adamcegielka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adam's github stats" /></a> | <a href="https://github.com/adamcegielka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ### Connect with me
 
 [<img align="left" alt="utest" src="https://img.shields.io/badge/utest-%23009EC2.svg?&style=for-the-badge&logo=utest&logoColor=white" />](https://www.utest.com/profile/AdamCegielka/about)
