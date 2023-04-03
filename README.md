@@ -2,7 +2,7 @@
 
 I'm a Junior Software Tester with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily.
 
-### 🛠 &nbsp; Testing tools that I use
+### 🛠 &nbsp; Testing tools that I use:
 
 - &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=00d8fd)
   &nbsp; ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=trello&logoColor=00d8fd)
