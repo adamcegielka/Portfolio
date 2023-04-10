@@ -9,7 +9,7 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
   &nbsp; ![TestRail](https://img.shields.io/badge/-TestRail-0A1A2F?style=flat&logo=testrail&logoColor=00d8fd)
 - &nbsp; ![Postman](https://img.shields.io/badge/-Postman-0A1A2F?style=flat&logo=postman&logoColor=00d8fd)
   &nbsp; ![Selenium](https://img.shields.io/badge/-Selenium-0A1A2F?style=flat&logo=selenium&logoColor=00d8fd)
-  &nbsp; ![JMeter](https://img.shields.io/badge/-JMeter-0A1A2F?style=flat&logo=jmeter&logoColor=00d8fd)
+  &nbsp; ![Playwright](https://img.shields.io/badge/-Playwright-0A1A2F?style=flat&logo=playwright&logoColor=00d8fd)
 - &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   &nbsp; ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=007ACC)
 - &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
