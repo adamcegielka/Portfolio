@@ -19,6 +19,7 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
   &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 - &nbsp; ![DevTools](https://img.shields.io/badge/-DevTools-0A1A2F?style=flat&logo=devtools)
   &nbsp; ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0A1A2F?style=flat&logo=stackoverflow)
+  &nbsp; ![ChatGPT](https://img.shields.io/badge/-ChatGPT-0A1A2F?style=flat&logo=chatgpt)
 - &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence)
   &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
