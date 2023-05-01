@@ -24,7 +24,7 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
   &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
 
-| ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=dark&count_private=true&bg_color=0d1117&hide_border=true) |
+| ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=dark&bg_color=0d1117&hide_border=true) |
 | ------------- | ------------- |
 
 ### Connect with me
