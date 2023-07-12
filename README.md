@@ -25,10 +25,10 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 - &nbsp; ![Confluence](https://img.shields.io/badge/-Confluence-0A1A2F?style=flat&logo=confluence)
   &nbsp; ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   &nbsp; ![Canva](https://img.shields.io/badge/-Canva-0A1A2F?style=flat&logo=canva)
-<!--
+
 | ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamcegielka&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcegielka&layout=compact&theme=gotham) |
 | ------------- | ------------- |
--->
+
 ### Connect with me
 
 [<img align="left" alt="utest" src="https://img.shields.io/badge/utest-%23009EC2.svg?&style=for-the-badge&logo=utest&logoColor=white" />](https://www.utest.com/profile/AdamCegielka/about)
