@@ -30,7 +30,6 @@ I'm a Junior Software Tester with strong attention to detail. I like new challen
 
 ### Connect with me
 
-[<img align="left" alt="utest" src="https://img.shields.io/badge/utest-%23009EC2.svg?&style=for-the-badge&logo=utest&logoColor=white" />](https://www.utest.com/profile/AdamCegielka/about)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adam-cegielka)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/adam.cegielka/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdahoGlide)
