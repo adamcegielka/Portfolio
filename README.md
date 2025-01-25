@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Adam
 
-I'm a Junior Software Tester with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily. [More about me](https://github.com/adamcegielka/more-about-me).
+I'm a Junior Quality Assurance Engineer with strong attention to detail. I like new challenges, which made me want to learn more and more about this domain and improve my skills daily. [More about me](https://github.com/adamcegielka/more-about-me).
 
 ### 🛠 &nbsp; Testing tools that I use:
 
